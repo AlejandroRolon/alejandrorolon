@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4997&pause=1000&color=D7A557&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hello%2C+I'm+Alejandro!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4997&pause=1000&color=9F947A&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hello%2C+I'm+Alejandro!;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 <img src="https://i.redd.it/1d11s820dgm91.gif" alt="Pixel Art" align="right" width="200">
 
@@ -22,6 +22,6 @@
 ### Contact
 
 <div> 
-  <a href="https:www.linkedin.com/in/alejandro-rolon-bedoya" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alejandro-rolon-bedoya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:alejandro.rolon.bedoya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
