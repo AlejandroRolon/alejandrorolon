@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4997&pause=1000&color=D7A557&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hello%2C+I'm+Alejandro!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4997&pause=1000&color=2E27D2&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Bienvenidos+a+mi+Github!)](https://git.io/typing-svg)
 <img src="https://i.redd.it/1d11s820dgm91.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
