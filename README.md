@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4998&pause=1000&color=22F747&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hola%2C+bienvenidos+a+mi+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4997&pause=1000&color=D7A557&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hello%2C+I'm+Alejandro!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4997&pause=1000&color=2E27D2&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Bienvenidos+a+mi+Github!)](https://git.io/typing-svg)
 <img src="https://i.redd.it/1d11s820dgm91.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
@@ -16,14 +18,7 @@
  
 </div><br>
 
-### GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/AlejandroRolon">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=AlejandroRolon&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroRolon&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>
     
 ### Contact
 
